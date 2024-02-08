@@ -1,1 +1,3 @@
 This is some simple text to illustrate changes on github and other vcs systems. 
+Adding a few changes to test wether the commit functionality is there
+
